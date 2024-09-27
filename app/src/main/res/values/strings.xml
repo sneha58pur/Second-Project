@@ -1,0 +1,33 @@
+<resources>
+
+
+    <string name="Kameez">hello</string>
+    <string name="kameez">Kameez</string>
+
+    <string name="hi">Tops</string>
+    <string name="go">Gown</string>
+    <string name="select_dress">Select Dress:</string>
+    <string name="select_dress_size">Select Dress Size:</string>
+    <string name="s">S</string>
+    <string name="m">M</string>
+    <string name="l">L</string>
+    <string name="dress_quantity">Dress Quantity</string>
+    <string name="negative">-</string>
+    <string name="positive">+</string>
+    <string name="give_rating">Give Rating</string>
+    <string name="rating_0_0">Rating: 0.0</string>
+    <string name="place_your_order">Place Your Order</string>
+    <string name="initial">0</string>
+    <string name="bdt_0">BDT 0</string>
+    <string name="price_each_500_bdt">Price (Each 500 BDT)</string>
+    <string name="test">test</string>
+    <string name="brightness">Brightness</string>
+    <string name="level">Level</string>
+    <string name="adaptive_brightness">Adaptive Brightness</string>
+    <string name="enter_to">Enter</string>
+    <string name="price">Price</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="each_500_bdt">Each 500 BDT</string>
+    <string name="total_bdt_0">Total BDT 0</string>
+
+</resources>
